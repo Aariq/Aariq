@@ -16,5 +16,10 @@ I'm a postdoctoral researcher in the [Bruna Lab](https://github.com/BrunaLab) at
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fitting a DLNM is simple without the {dlnm} package](https://www.ericrscott.com/post/2021-02-08-tensor-product-dlnm/)
+- [DLNMs: hypothesis tests and p-values](https://www.ericrscott.com/post/dlnm-p-values/)
+- [Speeding up DLNMs with bam()](https://www.ericrscott.com/post/dlnm-bam/)
+- [DLNM marginal basis functions](https://www.ericrscott.com/post/dlnm-basis/)
+- [Distributed lag non-linear models](https://www.ericrscott.com/post/dlnm/)
 <!-- BLOG-POST-LIST:END -->
 
