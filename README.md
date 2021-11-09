@@ -19,7 +19,7 @@ I'm a postdoctoral researcher in the [Bruna Lab](https://github.com/BrunaLab) at
 - [Assessing the reliability of an R package](https://www.ericrscott.com/post/2021-10-27-assessing-the-reliability-of-an-r-package/)
 - [Fitting a DLNM is simple without the {dlnm} package](https://www.ericrscott.com/post/2021-02-08-tensor-product-dlnm/)
 - [DLNMs: hypothesis tests and p-values](https://www.ericrscott.com/post/dlnm-p-values/)
-- [Speeding up DLNMs with bam()](https://www.ericrscott.com/post/dlnm-bam/)
+- [Speeding up DLNMs with bam&lpar;&rpar;](https://www.ericrscott.com/post/dlnm-bam/)
 - [DLNM marginal basis functions](https://www.ericrscott.com/post/dlnm-basis/)
 <!-- BLOG-POST-LIST:END -->
 
