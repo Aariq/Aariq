@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=ericrscott.com&url=https%3A%2F%2Fwww.ericrscott.com%2F)](https://www.ericrscott.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/LeafyEricScott?style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAariq&screen_name=LeafyEricScott)
 
-I'm a postdoctoral researcher in the [Bruna Lab](https://github.com/BrunaLab) at University of Florida. I'm a chemical ecologist / quantitative ecologist currently looking for faculty positions on the West Coast (of the US).
+I'm a postdoctoral researcher in the [Bruna Lab](https://github.com/BrunaLab) at University of Florida. I'm a chemical ecologist / quantitative ecologist / research software engineer currently looking for faculty positions on the West Coast (of the US).
 
 - 🔭 I’m currently working on an integral projection model (IPM) for a tropical understory plant
 - 🌱 I’m currently learning the [`ipmr` package](https://github.com/levisc8/ipmr)
