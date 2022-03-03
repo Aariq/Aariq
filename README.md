@@ -31,5 +31,5 @@ I'm a postdoctoral researcher in the [Bruna Lab](https://github.com/BrunaLab) at
 - 📰 [Guest blog posts](http://www.teageek.net/blog/author/aariqscott/)
 
 --------------------
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aariq&showicons=true)
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aariq&show_icons=true)
 
