@@ -8,7 +8,6 @@ I'm a postdoctoral researcher in the [Bruna Lab](https://github.com/BrunaLab) at
 - 🔭 I’m currently working on an integral projection model (IPM) for a tropical understory plant
 - 🌱 I’m currently learning the [`ipmr` package](https://github.com/levisc8/ipmr)
 - 👯 I’m looking to collaborate on chemical ecology projects in need of data analysis and visualization
-- 🤔 I’m looking for help with best practices for simulating climate data for ecological forecasting
 - 🫖 I'm also a huge tea geek!
 
 --------------------
@@ -30,4 +29,7 @@ I'm a postdoctoral researcher in the [Bruna Lab](https://github.com/BrunaLab) at
 - 🎓 [Tea PhD](https://www.ericrscott.com/project/climate-leafhopper-quality/)
 - 📺 [#TeaScienceTuesday](https://youtube.com/playlist?list=PLtlw9R1NVcT4FtL9LfTtcjdzuiBwkoMus)
 - 📰 [Guest blog posts](http://www.teageek.net/blog/author/aariqscott/)
+
+--------------------
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aariq)
 
