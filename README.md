@@ -6,9 +6,9 @@
 I'm a Scientific Programmer & Educator with [CCT Data Science](https://github.com/cct-datascience) at University of Arizona.
 
 - 🔭 I’m currently working on an integral projection model (IPM) for a tropical understory plant
-- 🌱 I’m currently learning ecosystem modeling using [PeCAn](https://github.com/PecanProject/pecan)
+- 🌱 I’m currently learning ecosystem modeling using [PEcAn](https://github.com/PecanProject/pecan)
 - 👯 I’m looking for collaborators at University of Arizona CALS in need of data analysis and visualization
-- 🫖 I'm also a huge tea geek!
+- 🍵 I'm also a huge tea geek!
 
 --------------------
 
