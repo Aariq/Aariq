@@ -16,11 +16,11 @@ I'm a Scientific Programmer & Educator with [CCT Data Science](https://github.co
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oh for {fs}, are you kidding me, base R?](https://www.ericrscott.com/post/2023-01-04-list-files/)
 - [New job: Scientific Programmer &amp; Educator](https://www.ericrscott.com/post/2022-05-17-new-job/)
 - [Assessing the reliability of an R package](https://www.ericrscott.com/post/2021-10-27-assessing-the-reliability-of-an-r-package/)
 - [Fitting a DLNM is simple without the {dlnm} package](https://www.ericrscott.com/post/2021-02-08-tensor-product-dlnm/)
 - [DLNMs: hypothesis tests and p-values](https://www.ericrscott.com/post/dlnm-p-values/)
-- [Speeding up DLNMs with bam&lpar;&rpar;](https://www.ericrscott.com/post/dlnm-bam/)
 <!-- BLOG-POST-LIST:END -->
 
 --------------------
