@@ -15,11 +15,11 @@ I'm a Scientific Programmer & Educator with [CCT Data Science](https://github.co
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Oh for {fs}, are you kidding me, base R?](https://merry-piroshki-d56896.netlify.app/posts/2023-01-04-list-files/index.html)
-- [New job: Scientific Programmer &amp; Educator](https://merry-piroshki-d56896.netlify.app/posts/2022-05-17-new-job/index.html)
-- [Assessing the reliability of an R package](https://merry-piroshki-d56896.netlify.app/posts/2021-10-27-assessing-the-reliability-of-an-r-package/index.html)
-- [Fitting a DLNM is simple without the {dlnm} package](https://merry-piroshki-d56896.netlify.app/posts/2021-02-08-tensor-product-dlnm/index.html)
-- [DLNMs: hypothesis tests and p-values](https://merry-piroshki-d56896.netlify.app/posts/2021-01-20-dlnm-p-values/index.html)
+- [Oh for {fs}, are you kidding me, base R?](https://ericrscott.com/posts/2023-01-04-list-files/index.html)
+- [New job: Scientific Programmer &amp; Educator](https://ericrscott.com/posts/2022-05-17-new-job/index.html)
+- [Assessing the reliability of an R package](https://ericrscott.com/posts/2021-10-27-assessing-the-reliability-of-an-r-package/index.html)
+- [Fitting a DLNM is simple without the {dlnm} package](https://ericrscott.com/posts/2021-02-08-tensor-product-dlnm/index.html)
+- [DLNMs: hypothesis tests and p-values](https://ericrscott.com/posts/2021-01-20-dlnm-p-values/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 --------------------
