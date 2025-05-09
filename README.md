@@ -6,8 +6,8 @@
 I'm a Scientific Programmer & Educator with [CCT Data Science](https://github.com/cct-datascience) at University of Arizona.
 
 - 🔭 I’m currently working on an R package to extend `targets` to play nicely with spatial R packages like `terra`, [`geotargets`](https://github.com/njtierney/geotargets)
-- 🌱 I’m currently learning geospatial analysis in R with `terra`, `sf`, `stars`, etc.
-- 👯 I’m looking for collaborators at University of Arizona CALES in need of data analysis and visualization
+- 🌱 I’m currently learning Python.
+- 👯 I’m looking for collaborators at University of Arizona
 - 🍵 I'm also a huge tea geek!
 
 --------------------
