@@ -15,11 +15,11 @@ I'm a Scientific Programmer & Educator with [CCT Data Science](https://github.co
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating my Quarto site from GitHub to Codeberg](https://ericrscott.com/posts/2025-09-20-migrating-to-codeberg/)
 - [Re-constructing Google Forms responses with Quarto and {glue}](https://ericrscott.com/posts/2023-08-08-google-forms-quarto/)
 - [Oh for {fs}, are you kidding me, base R?](https://ericrscott.com/posts/2023-01-04-list-files/)
 - [New job: Scientific Programmer &amp; Educator](https://ericrscott.com/posts/2022-05-17-new-job/)
 - [Assessing the reliability of an R package](https://ericrscott.com/posts/2021-10-27-assessing-the-reliability-of-an-r-package/)
-- [Fitting a DLNM is simple without the {dlnm} package](https://ericrscott.com/posts/2021-02-08-tensor-product-dlnm/)
 <!-- BLOG-POST-LIST:END -->
 
 --------------------
