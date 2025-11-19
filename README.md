@@ -15,11 +15,11 @@ I'm a Scientific Programmer & Educator with [CCT Data Science](https://github.co
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [posit::conf&lpar;2025&rpar; lightning talk on geotargets](https://ericrscott.com/posts/2025-11-18-posit-conf-talk/)
 - [The best banana bread recipe](https://ericrscott.com/posts/2025-10-14-banana-bread/)
 - [Migrating my Quarto site from GitHub to Codeberg](https://ericrscott.com/posts/2025-09-20-migrating-to-codeberg/)
 - [Re-constructing Google Forms responses with Quarto and {glue}](https://ericrscott.com/posts/2023-08-08-google-forms-quarto/)
 - [Oh for {fs}, are you kidding me, base R?](https://ericrscott.com/posts/2023-01-04-list-files/)
-- [New job: Scientific Programmer &amp; Educator](https://ericrscott.com/posts/2022-05-17-new-job/)
 <!-- BLOG-POST-LIST:END -->
 
 --------------------
