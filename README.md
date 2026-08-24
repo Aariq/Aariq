@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Eric Scott (he)
 
 [![Website](https://img.shields.io/website?label=ericrscott.com&url=https%3A%2F%2Fwww.ericrscott.com%2F)](https://www.ericrscott.com/)
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/109320619859707839?domain=https%3A%2F%2Ffosstodon.org&style=social)](https://fosstodon.org/@LeafyEricScott)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/114876897646712155?domain=hachyderm.io)
 
 I'm a Scientific Programmer & Educator with [CCT Data Science](https://github.com/cct-datascience) at University of Arizona.
 
